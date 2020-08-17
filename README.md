@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> I'm, Pankaj Singh! <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="50"></h2>
 
-<p><em>Software Enginner at <a href="https://www.photon.in/"></a><img src="https://www.photon.in/themes/custom/photon/images/logo.svg" width="80">
+<p>Software Enginner at <a href="https://www.photon.in/"></a><img src="https://www.photon.in/themes/custom/photon/images/logo.svg" width="80">
   
  🔭 I’m currently working on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40">
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### A little more about me...  
 
-```javascript
+```js
 const pankaj = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "React", "React-Native"],
