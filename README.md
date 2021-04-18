@@ -25,30 +25,6 @@ Here are some ideas to get you started:
 [![Twitter: Pankaj Singh](https://img.shields.io/twitter/follow/ps_0305?style=social)](https://twitter.com/ps_0305)
 [![Linkedin: Pankaj Singh](https://img.shields.io/badge/-pankaj0305-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankaj0305/)](https://www.linkedin.com/in/pankaj0305/)
 
-### A little more about me...  
-
-```js
-const pankaj = {
-    code: ["Javascript", "Typescript", "React", "React-Native"],
-    askMeAbout: ["web dev", "tech", "app dev", "Mobile App"],
-    technologies: {
-        mobileApp: ["React-Native"],
-        frontEnd: {
-            js: ["React", "Angular"],
-            css: ["materialize", "flexbox", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-        },
-        devOps: ["Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Formik", "Exponea"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
