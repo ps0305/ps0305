@@ -1,3 +1,3 @@
-# नमस्ते (Namaste)🙏🏻, I'm Pankaj Singh!
+# नमस्ते (Namaste)🙏🏻
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
