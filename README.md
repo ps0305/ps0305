@@ -1,3 +1,3 @@
 # नमस्ते (Namaste)🙏🏻
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+FrontEnd developer from India 🇮🇳
