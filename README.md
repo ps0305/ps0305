@@ -1,6 +1,6 @@
 # नमस्ते (Namaste)🙏🏻
 
-> ### FrontEnd developer from India 🇮🇳
+> ### front end developer from India 🇮🇳
 
 I'm a passionate open-source enthusiast with a love for [JavaScript](https://github.com/ps0305/Javascript-Algorithms-And-Data-Structures) and a focus on [React-Native](https://reactnative.dev/), [React](https://react.dev/), and Web development. I'm also fascinated by the concept of the Metaverse and consider myself a [Matrix](https://www.imdb.com/title/tt0133093/) fan.
 
