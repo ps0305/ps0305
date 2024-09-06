@@ -18,7 +18,11 @@ I'm a passionate open-source enthusiast with a love for [JavaScript](https://git
 
 [Arby's - Fast Food Sandwiches](https://apps.apple.com/us/app/arbys-fast-food-sandwiches/id1348507359)
 
+[Buffalo Wild Wings](https://apps.apple.com/us/app/buffalo-wild-wings/id1031364004)
+
 [Victoria's Secret MENA](https://play.google.com/store/apps/details?id=com.vs.mena&hl=en_US&gl=US&pli=1)
+
+[Smart Engage Syngenta](https://apps.apple.com/br/app/smart-engage-syngenta/id6443504370)
 
 [Sentara](https://www.sentara.com/)
 
