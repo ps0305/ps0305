@@ -1,14 +1,23 @@
 # नमस्ते (Namaste)🙏🏻
 
-> ### front end developer from India 🇮🇳
+> ### Welcome to the Matrix, i'm Pankaj 🕶️, Software Developer from India 🇮🇳
+> ### Wake up, Neo... Welcome to my GitHub profile, where code is the key to unlocking the truth.
 
-I'm a passionate open-source enthusiast with a love for [JavaScript](https://github.com/ps0305/Javascript-Algorithms-And-Data-Structures) and a focus on [React-Native](https://reactnative.dev/), [React](https://react.dev/), and Web development. I'm also fascinated by the concept of the Metaverse and consider myself a [Matrix](https://www.imdb.com/title/tt0133093/) fan.
+## About Me
+
+- 🔭 Currently hacking into various open-source projects
+- 👯 Searching for allies to collaborate on mind-bending projects
+- 🤔 Seeking guidance from the Oracle to master DevOps
+- 💬 Reach out to me about JavaScript, React, React-Native or front-end technologies
+- 📫 Follow the white rabbit: [email](mailto:paankajsingh0305@gmail.com)
+- 🌱 Continuously updating my matrix with advanced machine learning and cloud computing skills
+- ⚡ Fun fact: I'm also fascinated by the concept of the Metaverse and consider myself a [Matrix](https://www.imdb.com/title/tt0133093/) fan.
 
 ## Skills and Technologies
-* JavaScript
-* React-Native
-* React
-
+- JavaScript - The architect of the web
+- React-Native - The chosen one
+- React - The illusionist
+- MySQL: The relational matrix
 
 ## Projects
 
@@ -26,7 +35,14 @@ I'm a passionate open-source enthusiast with a love for [JavaScript](https://git
 
 [Sentara](https://www.sentara.com/)
 
-#### Contact Me
-You can reach me via email at pankajsingh0305@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj0305).
+## Top Languages
 
-Let's collaborate and create something amazing together! 😄
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ps0305&layout=compact&theme=radical)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ps0305)
+- [Twitter](https://twitter.com/ps0305)
+- [Personal Website](https://ps0305.github.io)
+
+Remember, all I'm offering is the truth. Nothing more. Welcome to the real world. 🕶️
