@@ -1,6 +1,6 @@
 # नमस्ते (Namaste)🙏🏻
 
-> ### Welcome to the Matrix, i'm Pankaj 🕶️, Software Developer from India 🇮🇳
+> ### i'm Pankaj 🕶️, Software Developer from India 🇮🇳
 > ### Wake up, Neo... Welcome to my GitHub profile, where code is the key to unlocking the truth.
 
 ## About Me
@@ -34,10 +34,6 @@
 [Smart Engage Syngenta](https://apps.apple.com/br/app/smart-engage-syngenta/id6443504370)
 
 [Sentara](https://www.sentara.com/)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ps0305&layout=compact&theme=radical)
 
 ## Let's Connect
 
