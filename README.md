@@ -56,7 +56,7 @@ I believe tools and technologies come and go, but foundational concepts remain v
 
 ### 📬 Get in Touch  
 - ✍️ **Portfolio**: [Personal Website](https://ps0305.github.io)
-- ✍️ **X.com**: [Twitter](https://twitter.com/ps0305) 
+- ✍️ **x.com**: [x.com](https://x.com/ps_0305) 
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ps0305)
   
 Let’s build something amazing together! 
