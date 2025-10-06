@@ -27,7 +27,7 @@ In my free time, I love exploring nature, collaborating with others, and finding
  
 
 #### Frameworks & Libraries  
-![React Native](https://img.shields.io/badge/React-Native-%2320232a.svg?style=for-the-badge&logo=react-css&logoColor=2361DAFB)
+![React Native](https://img.shields.io/badge/React-Native-%2320232a.svg?style=for-the-badge&logo=createreactapp&logoColor=2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
@@ -38,7 +38,7 @@ In my free time, I love exploring nature, collaborating with others, and finding
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 
 #### Version Control & Deployment  
@@ -49,7 +49,7 @@ In my free time, I love exploring nature, collaborating with others, and finding
 
 
 #### API Experience  
-![REST API](https://img.shields.io/badge/-RESTAPI-E10098?style=for-the-badge&logo=restapi&logoColor=white)
+![REST API](https://img.shields.io/badge/-RESTAPI-E10098?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 I believe tools and technologies come and go, but foundational concepts remain vital. My focus is on mastering those concepts while adapting to new tools.  
