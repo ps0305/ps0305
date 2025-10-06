@@ -7,7 +7,7 @@ I am dedicated to crafting exceptional user experiences, mentoring others in the
 In my free time, I love exploring nature, collaborating with others, and finding creative inspiration in everyday life.
 
 #### Currently
-- Working as a Software Engineer at [EPAM](https://www.epam.com/)
+- Working as a Senior Software Engineer at [EPAM](https://www.epam.com/)
 
 #### Here are some notable projects I have worked on:
 
@@ -77,7 +77,5 @@ Let’s build something amazing together!
 ---
 
 <div align=center>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=ps0305)
-
 </div>
